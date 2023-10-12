@@ -1,0 +1,5 @@
+﻿  ch02_Data.cpp
+C:\OpenCV\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\OpenCV\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\OpenCV\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  opencv.vcxproj -> C:\opencv_vs\opencv\x64\Debug\opencv.exe
